@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **giannis_veni4@yahoo.com**
 
-- ⚡ Fun fact **Did you know that the term "debugging" in computer science originated from an actual insect? In 1947, when computing pioneer Grace Hopper was working on the Harvard Mark II computer, she and her team found a moth trapped in a relay, causing a malfunction. They removed the moth and taped it to their logbook, annotating "First actual case of bug being found." From then on, the process of fixing computer glitches became known as "debugging." So, next time you're troubleshooting code, remember that you're following in the footsteps of those who once debugged computers by removing actual bugs!**
+- ⚡ Fun fact **Alan Turing: Computing Pioneer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
