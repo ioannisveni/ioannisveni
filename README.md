@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Docker and Bash Scripting**
 
-- 💬 Ask me about **Bash Scripting**
-
 - 📫 How to reach me **giannis_veni4@yahoo.com**
 
 - ⚡ Fun fact **Alan Turing: Computing Pioneer.**
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/ioannis-veni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ioannis-veni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/paxara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/paxara/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
